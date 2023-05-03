@@ -20,10 +20,10 @@ namespace IntSysLaba4V1
             button1.Visible = bl;
             button2.Visible = bl;
         }
-        
+        //
         // Экземпляры класса, представляющие из себя все вопросы и ответы
         public DNode QDefects = new DNode("Появились ли дефекты на окрашенной поверхности ?", 98);
-        public DNode QPytna = new DNode("Эти дефекты-пятна?", 80);
+        public DNode QPytna = new DNode("Эти дефекты-пятна??", 80);
         public DNode QPolosy = new DNode("Эти дефекты-полосы?", 40);
         public DNode QPyziri = new DNode("Эти дефекты-пузыри?", 50); // добавленный вопрос по варианту 2А
         public DNode QZhirPytna = new DNode("Это жирные пятна?",60);
