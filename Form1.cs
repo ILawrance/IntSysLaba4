@@ -20,7 +20,7 @@ namespace IntSysLaba4V1
             button1.Visible = bl;
             button2.Visible = bl;
         }
-        //
+        //sered
         // Экземпляры класса, представляющие из себя все вопросы и ответы
         public DNode QDefects = new DNode("Появились ли дефекты на окрашенной поверхности ?", 98);
         public DNode QPytna = new DNode("Эти дефекты-пятна??", 80);
