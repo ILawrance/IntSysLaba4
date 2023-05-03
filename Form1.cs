@@ -21,7 +21,7 @@ namespace IntSysLaba4V1
             button2.Visible = bl;
         }
         /// <summary>
-        /// 
+        /// 1204897120712519523ihr2iuhfrwiuhw738ir893riuwhfiuh92yyr92yf20f2iuh
         /// </summary>
         // Экземпляры класса, представляющие из себя все вопросы и ответы
         public DNode QDefects = new DNode("Появились ли дефекты на окрашенной поверхности ?", 98);
